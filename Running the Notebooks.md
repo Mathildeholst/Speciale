@@ -7,5 +7,5 @@ Some Jupyter notebooks (.ipynb) and large CSV files in the repository may not re
 However, the files remain fully functional and can be:
 * Downloaded and opened locally in Jupyter Notebook
 * Uploaded to Google Colab
-* Doenloaded and opened in another compatible notebook, spreadsheet or data analysis environment
+* Downloaded and opened in another compatible notebook, spreadsheet or data analysis environment
 * If a notebook is displayed as an NBConvert preview on GitHub, simply download the .ipynb file and open it locally or upload it to Google Colab.
