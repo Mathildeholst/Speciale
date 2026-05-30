@@ -9,3 +9,5 @@ However, the files remain fully functional and can be:
 * Uploaded to Google Colab
 * Downloaded and opened in another compatible notebook, spreadsheet or data analysis environment
 * If a notebook is displayed as an NBConvert preview on GitHub, simply download the .ipynb file and open it locally or upload it to Google Colab.
+
+<img width="331" height="297" alt="image" src="https://github.com/user-attachments/assets/841ee88c-f68e-419b-a87a-7f4c759fa992" />
