@@ -4,10 +4,11 @@ This repository contains the code, datasets, and supplementary materials develop
 ## Running the Notebooks
 Some Jupyter notebooks (.ipynb) and large CSV files in the repository may not render correctly when viewed directly on GitHub due to file size limitations or notebook rendering issues (e.g., showing only nbconvert output, meta or file too large messages).
 
+The "code" folder contains all code used in the thesis. As shown in the figure below, GitHub may display an error when previewing some of the Jupyter Notebook files. However, this only affects the online preview. The notebooks can still be downloaded as .ipynb files and executed in a compatible environment such as Google Colab.
+<img width="331" height="297" alt="image" src="https://github.com/user-attachments/assets/841ee88c-f68e-419b-a87a-7f4c759fa992" />
+
 However, the files remain fully functional and can be:
 * Downloaded and opened locally in Jupyter Notebook
 * Uploaded to Google Colab
 * Downloaded and opened in another compatible notebook, spreadsheet or data analysis environment
 * If a notebook is displayed as an NBConvert preview on GitHub, simply download the .ipynb file and open it locally or upload it to Google Colab.
-
-<img width="331" height="297" alt="image" src="https://github.com/user-attachments/assets/841ee88c-f68e-419b-a87a-7f4c759fa992" />
